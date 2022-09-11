@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mint/static/css/main.33b61b17.css",
+    "main.js": "/mint/static/js/main.2dc77382.js",
+    "static/media/background.jpg": "/mint/static/media/background.d6736fa02e5ff6a66e75.jpg",
+    "index.html": "/mint/index.html",
+    "main.33b61b17.css.map": "/mint/static/css/main.33b61b17.css.map",
+    "main.2dc77382.js.map": "/mint/static/js/main.2dc77382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b61b17.css",
+    "static/js/main.2dc77382.js"
+  ]
+}
